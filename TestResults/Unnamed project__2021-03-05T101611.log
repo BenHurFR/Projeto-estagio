@@ -1,0 +1,286 @@
+﻿2021-03-05T10:16:11.4224419-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-03-05T10:16:11.4225907-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-03-05T10:16:11.4225939-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-03-05T10:16:11.4237983-03:00;VSTestExecutionThread;Info;Current UserName: 'Escolar Manager', MachineName: 'DEV-BEN'
+2021-03-05T10:16:11.4454052-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\EM.Repository.Testes.dll
+2021-03-05T10:16:11.4455962-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\TestResults" (default)
+2021-03-05T10:16:11.4456527-03:00;VSTestExecutionThread;Info;Profile: 
+2021-03-05T10:16:11.4772579-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\TestResults\Unnamed project__2021-03-05T101611.log
+2021-03-05T10:16:11.4806951-03:00;Thread#12;Info;Checking activation
+2021-03-05T10:16:11.5485483-03:00;Thread#12;Info;Activated.
+2021-03-05T10:16:11.5487521-03:00;Thread#12;Info;Activation check completed
+2021-03-05T10:16:11.5488224-03:00;Thread#12;Info;Starting test run
+2021-03-05T10:16:11.6096592-03:00;Thread#12;Info;Discovering target: Default
+2021-03-05T10:16:11.6098155-03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\EM.Repository.Testes.dll
+2021-03-05T10:16:11.6722419-03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\EM.Repository.Testes.dll
+2021-03-05T10:16:11.6730906-03:00:Test Suite Dump
+2021-03-05T10:16:11.6742397-03:00:#0: Unnamed project/ - 
+2021-03-05T10:16:11.6742517-03:00:#1: Default - 
+2021-03-05T10:16:11.6742533-03:00:#2: EM.Repository.Testes - 
+2021-03-05T10:16:11.6742544-03:00:#3: Como diretor da escola quero cadastrar, alterar e remover alunos no meu banco de dados - 
+2021-03-05T10:16:11.6750440-03:00:#4: Adiciona aluno no banco, 201801481 - TestAssembly:EM.Repository.Testes/Feature:Como+diretor+da+escola+quero+cadastrar%2c+alterar+e+remover+alunos+no+meu+banco+de+dados/Scenario:Adiciona+aluno+no+banco%2c+201801481
+2021-03-05T10:16:11.6750740-03:00:#5: Adiciona aluno no banco, 201901481 - TestAssembly:EM.Repository.Testes/Feature:Como+diretor+da+escola+quero+cadastrar%2c+alterar+e+remover+alunos+no+meu+banco+de+dados/Scenario:Adiciona+aluno+no+banco%2c+201901481
+2021-03-05T10:16:11.6750857-03:00:#6: Adiciona aluno no banco, 202003452 - TestAssembly:EM.Repository.Testes/Feature:Como+diretor+da+escola+quero+cadastrar%2c+alterar+e+remover+alunos+no+meu+banco+de+dados/Scenario:Adiciona+aluno+no+banco%2c+202003452
+2021-03-05T10:16:11.6750952-03:00:#7: Adiciona aluno no banco, 201408754 - TestAssembly:EM.Repository.Testes/Feature:Como+diretor+da+escola+quero+cadastrar%2c+alterar+e+remover+alunos+no+meu+banco+de+dados/Scenario:Adiciona+aluno+no+banco%2c+201408754
+2021-03-05T10:16:11.6751485-03:00:End: Test Suite Dump
+2021-03-05T10:16:11.6873371-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-05T10:16:11.6886959-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-03-05T10:16:11.6887465-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-03-05T10:16:11.6911155-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-05T10:16:11.6911278-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-03-05T10:16:11.6911292-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-03-05T10:16:11.6911311-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-03-05T10:16:11.6916507-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-03-05T10:16:11.6926173-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-03-05T10:16:11.6943025-03:00:Thread #0: creating new test thread executor for EM.Repository.Testes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-03-05T10:16:11.6962183-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-03-05T10:16:11.6963673-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-03-05T10:16:11.6980824-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-03-05T10:16:11.6994057-03:00:starting Out Of Process Executor
+2021-03-05T10:16:11.7007388-03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-05T10:16:11.7026273-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-03-05T10:16:11.7026353-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-03-05T10:16:11.7034649-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:11.7037379-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-03-05T10:16:11.7038054-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-03-05T10:16:11.7038389-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:11.7039998-03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-05T10:16:11.7044076-03:00:Tfm: netcoreapp3.1
+2021-03-05T10:16:11.7044148-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-05T10:16:11.7044214-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-03-05T10:16:11.7044809-03:00:[AssemblyCache] Found file 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-03-05T10:16:11.7048283-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-03-05T10:16:11.7052872-03:00:Starting callback TCP Rpc server
+2021-03-05T10:16:11.7176053-03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-03-05T10:16:11.7176384-03:00:Started callback TCP Rpc server on port 32768
+2021-03-05T10:16:11.7176439-03:00:Starting logger TCP Rpc server
+2021-03-05T10:16:11.7190123-03:00:Asynchronously starting background TCP Rpc Server on port 32770
+2021-03-05T10:16:11.7190268-03:00:Started logger TCP Rpc server on port 32770
+2021-03-05T10:16:11.7788538-03:00:Executing test executor at 'dotnet' 'exec "C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 15068 --uniqueId "2021-03-05T101611" --outputFolder "C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\TestResults" --callbackPort 32768 --loggerPort 32770' in 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:11.7896054-03:00:Executor with PID 17440 has been started successfully.
+2021-03-05T10:16:11.7916497-03:00:Out of Process Executor 17440 started
+2021-03-05T10:16:11.7916589-03:00:Waiting for endpoint
+2021-03-05T10:16:12.0126461-03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-05T10:16:12.0126963-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2021-03-05T10:16:12.0127000-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2021-03-05T10:16:12.0127096-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:12.0127111-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-03-05T10:16:12.0127438-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-03-05T10:16:12.0127691-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:12.0127765-03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-05T10:16:12.0128373-03:00:Tfm: netcoreapp3.1
+2021-03-05T10:16:12.0128414-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-05T10:16:12.0128424-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-03-05T10:16:12.0128752-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-03-05T10:16:12.0129117-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-05T10:16:12.0177850-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.10'
+2021-03-05T10:16:12.0177965-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.10\StreamJsonRpc.resources.dll'
+2021-03-05T10:16:12.0178446-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.10\StreamJsonRpc.resources.exe'
+2021-03-05T10:16:12.0178728-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.10'
+2021-03-05T10:16:12.0179822-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10'
+2021-03-05T10:16:12.0179862-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\StreamJsonRpc.resources.dll'
+2021-03-05T10:16:12.0180172-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\StreamJsonRpc.resources.exe'
+2021-03-05T10:16:12.0180447-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10'
+2021-03-05T10:16:12.0181398-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10'
+2021-03-05T10:16:12.0181466-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10\StreamJsonRpc.resources.dll'
+2021-03-05T10:16:12.0181797-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10\StreamJsonRpc.resources.exe'
+2021-03-05T10:16:12.0182040-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10'
+2021-03-05T10:16:12.0187888-03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=pt, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-05T10:16:12.0193034-03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-05T10:16:12.0193189-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-03-05T10:16:12.0193208-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-03-05T10:16:12.0193233-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:12.0193241-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-03-05T10:16:12.0193513-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-03-05T10:16:12.0193785-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:12.0193807-03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-05T10:16:12.0193959-03:00:Tfm: netcoreapp3.1
+2021-03-05T10:16:12.0193979-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-05T10:16:12.0193987-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-03-05T10:16:12.0194443-03:00:[AssemblyCache] Found file 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-03-05T10:16:12.0197955-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-03-05T10:16:12.1818660-03:00:Remote executor port received: 32771
+2021-03-05T10:16:12.1821147-03:00:Creating executor TCP client on port 32771
+2021-03-05T10:16:12.1824105-03:00:Created executor TCP client on port 32771
+2021-03-05T10:16:12.1824150-03:00:Connecting to remote executor TCP server
+2021-03-05T10:16:12.1830420-03:00:Connected remote executor TCP server
+2021-03-05T10:16:12.1831839-03:00:trying to connect to Out of Process Executor the 1 attempt
+2021-03-05T10:16:12.1831894-03:00:Connection to Out of Process Executor established in the 1 attempt
+2021-03-05T10:16:12.2878173-03:00:2021-03-05T10:16:12.2870137-03:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\EM.Repository.Testes.dll on test thread #0
+2021-03-05T10:16:12.2912751-03:00:Endpoint 17440 started
+2021-03-05T10:16:12.3044870-03:00:2021-03-05T10:16:12.3041917-03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-03-05T10:16:12.3876120-03:00:2021-03-05T10:16:12.3873404-03:00:Assembly resolving TechTalk.SpecFlow, Version=3.7.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-03-05T10:16:12.3898400-03:00:2021-03-05T10:16:12.3896687-03:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-03-05T10:16:12.3923308-03:00:2021-03-05T10:16:12.3920900-03:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Escolar Manager\.nuget\packages\specflow\3.7.13\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-03-05T10:16:12.4700183-03:00:2021-03-05T10:16:12.4691905-03:00:Thread#0:T:-> Loading plugin C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\EM.Repository.Testes.dll
+2021-03-05T10:16:12.4717404-03:00:2021-03-05T10:16:12.4710785-03:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-03-05T10:16:12.4728402-03:00:2021-03-05T10:16:12.4722691-03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-03-05T10:16:12.4741417-03:00:2021-03-05T10:16:12.4734581-03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\Escolar Manager\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-03-05T10:16:12.5039977-03:00:2021-03-05T10:16:12.5032757-03:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-03-05T10:16:12.5048690-03:00:2021-03-05T10:16:12.5044038-03:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-03-05T10:16:12.5058618-03:00:2021-03-05T10:16:12.5053579-03:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\Escolar Manager\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-03-05T10:16:12.5118399-03:00:2021-03-05T10:16:12.5112776-03:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in EM.Repository.Testes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-03-05T10:16:12.5127298-03:00:2021-03-05T10:16:12.5122682-03:00:Thread#0:T:-> Loading plugin C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-03-05T10:16:12.5145505-03:00:2021-03-05T10:16:12.5142847-03:00:Assembly resolving LivingDoc.Dtos, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null
+2021-03-05T10:16:12.5149021-03:00:2021-03-05T10:16:12.5147440-03:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-03-05T10:16:12.5153470-03:00:2021-03-05T10:16:12.5151771-03:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Escolar Manager\.nuget\packages\specflow.plus.livingdocplugin\3.7.10\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-03-05T10:16:12.5174599-03:00:2021-03-05T10:16:12.5172819-03:00:Thread#0:T:-> Loading plugin C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-03-05T10:16:12.5214971-03:00:2021-03-05T10:16:12.5212045-03:00:Thread#0:T:-> Using default config
+2021-03-05T10:16:12.5295938-03:00:2021-03-05T10:16:12.5292610-03:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-03-05T10:16:12.5299285-03:00:2021-03-05T10:16:12.5297505-03:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-03-05T10:16:12.5303959-03:00:2021-03-05T10:16:12.5302307-03:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Escolar Manager\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-03-05T10:16:12.5313863-03:00:2021-03-05T10:16:12.5312241-03:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-03-05T10:16:12.5317076-03:00:2021-03-05T10:16:12.5315348-03:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-03-05T10:16:12.5320639-03:00:2021-03-05T10:16:12.5319406-03:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Escolar Manager\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-03-05T10:16:12.5382294-03:00:2021-03-05T10:16:12.5379846-03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-05T10:16:12.5384684-03:00:2021-03-05T10:16:12.5383675-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-03-05T10:16:12.5392042-03:00:2021-03-05T10:16:12.5387332-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Escolar Manager\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-03-05T10:16:12.5612444-03:00:2021-03-05T10:16:12.5609512-03:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-03-05T10:16:12.5616062-03:00:2021-03-05T10:16:12.5614263-03:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-03-05T10:16:12.5619529-03:00:2021-03-05T10:16:12.5617907-03:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Escolar Manager\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-03-05T10:16:12.6946905-03:00:Thread#0: Test #4/0 is started on thread #0
+2021-03-05T10:16:12.7179036-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-03-05T10:16:12.7191842-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-05T10:16:12.7192175-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-03-05T10:16:12.7192209-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-03-05T10:16:12.7192578-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-05T10:16:12.7192627-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-03-05T10:16:12.7192638-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-03-05T10:16:12.7192650-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-03-05T10:16:12.7192890-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-03-05T10:16:12.7193114-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-03-05T10:16:12.7218690-03:00:2021-03-05T10:16:12.7216505-03:00:Thread#0:T:warning: The previous ScenarioContext was already disposed.
+2021-03-05T10:16:12.7465269-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,0511049 seconds
+2021-03-05T10:16:12.7484933-03:00:Thread#0: Test #4/1 is started on thread #0
+2021-03-05T10:16:12.7500985-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-05T10:16:12.7501148-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-03-05T10:16:12.7501166-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-03-05T10:16:12.7501377-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-05T10:16:12.7501395-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-03-05T10:16:12.7501404-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-03-05T10:16:12.7501415-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-03-05T10:16:12.7501474-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-03-05T10:16:12.7501508-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-03-05T10:16:12.7507680-03:00:2021-03-05T10:16:12.7505901-03:00:Thread#0:T:warning: The previous ScenarioContext was already disposed.
+2021-03-05T10:16:12.7566985-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0081488 seconds
+2021-03-05T10:16:12.7572310-03:00:Thread#0: Test #4/2 is started on thread #0
+2021-03-05T10:16:12.7583616-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-05T10:16:12.7583713-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-03-05T10:16:12.7583729-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-03-05T10:16:12.7583923-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-05T10:16:12.7583941-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-03-05T10:16:12.7583951-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-03-05T10:16:12.7583961-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-03-05T10:16:12.7584024-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-03-05T10:16:12.7584118-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-03-05T10:16:12.7590030-03:00:2021-03-05T10:16:12.7587979-03:00:Thread#0:T:warning: The previous ScenarioContext was already disposed.
+2021-03-05T10:16:12.7598077-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0025573 seconds
+2021-03-05T10:16:12.7602475-03:00:Thread#0: Test #5/0 is started on thread #0
+2021-03-05T10:16:12.7608363-03:00:2021-03-05T10:16:12.7606334-03:00:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2021-03-05T10:16:12.7646223-03:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2021-03-05T10:16:12.7650377-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-05T10:16:12.7650453-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-03-05T10:16:12.7650469-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-03-05T10:16:12.7650604-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-05T10:16:12.7650621-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-03-05T10:16:12.7650630-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-03-05T10:16:12.7650641-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-03-05T10:16:12.7650709-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-03-05T10:16:12.7650749-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-03-05T10:16:12.7657290-03:00:2021-03-05T10:16:12.7655239-03:00:Thread#0:T:warning: The previous ScenarioContext was already disposed.
+2021-03-05T10:16:12.7666448-03:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 0,0063815 seconds
+2021-03-05T10:16:12.7671318-03:00:Thread#0: Test #5/1 is started on thread #0
+2021-03-05T10:16:12.7683203-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-05T10:16:12.7683282-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-03-05T10:16:12.7683299-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-03-05T10:16:12.7683411-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-05T10:16:12.7683430-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-03-05T10:16:12.7683439-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-03-05T10:16:12.7683449-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-03-05T10:16:12.7683513-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-03-05T10:16:12.7683553-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-03-05T10:16:12.7689601-03:00:2021-03-05T10:16:12.7687742-03:00:Thread#0:T:warning: The previous ScenarioContext was already disposed.
+2021-03-05T10:16:12.7696848-03:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 0,0025377 seconds
+2021-03-05T10:16:12.7701079-03:00:Thread#0: Test #5/2 is started on thread #0
+2021-03-05T10:16:12.7711674-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-05T10:16:12.7711745-03:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-03-05T10:16:12.7711760-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-03-05T10:16:12.7711852-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-05T10:16:12.7711867-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-03-05T10:16:12.7711883-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-03-05T10:16:12.7711893-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-03-05T10:16:12.7711941-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-03-05T10:16:12.7711984-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-03-05T10:16:12.7717327-03:00:2021-03-05T10:16:12.7715844-03:00:Thread#0:T:warning: The previous ScenarioContext was already disposed.
+2021-03-05T10:16:12.7723721-03:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 0,0022505 seconds
+2021-03-05T10:16:12.7727870-03:00:Thread#0: Test #6/0 is started on thread #0
+2021-03-05T10:16:12.7731910-03:00:2021-03-05T10:16:12.7730797-03:00:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2021-03-05T10:16:12.7740204-03:00:Cancelling because configured number of failures reached
+2021-03-05T10:16:12.7749920-03:00:2021-03-05T10:16:12.7748418-03:00:Thread#0:T:warning: The previous ScenarioContext was already disposed.
+2021-03-05T10:16:12.7764583-03:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 0,0036562 seconds
+2021-03-05T10:16:12.7813190-03:00:2021-03-05T10:16:12.7811186-03:00:Got Deinitialize Signal
+2021-03-05T10:16:12.7836152-03:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-03-05T10:16:12.7845318-03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-03-05T10:16:12.7855673-03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-03-05T10:16:12.7864938-03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-05T10:16:12.7865033-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-03-05T10:16:12.7865080-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-03-05T10:16:12.7865126-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:12.7865140-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-03-05T10:16:12.7865459-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-03-05T10:16:12.7865804-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1'
+2021-03-05T10:16:12.7865886-03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-05T10:16:12.7866284-03:00:Tfm: netcoreapp3.1
+2021-03-05T10:16:12.7866305-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-05T10:16:12.7866313-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-03-05T10:16:12.7866654-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-03-05T10:16:12.7866920-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\EM.Repository.Testes\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-05T10:16:12.7872532-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.10'
+2021-03-05T10:16:12.7872587-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.10\System.Diagnostics.Process.resources.dll'
+2021-03-05T10:16:12.7872992-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.10\System.Diagnostics.Process.resources.exe'
+2021-03-05T10:16:12.7873268-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.10'
+2021-03-05T10:16:12.7874108-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10'
+2021-03-05T10:16:12.7874153-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Diagnostics.Process.resources.dll'
+2021-03-05T10:16:12.7874442-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Diagnostics.Process.resources.exe'
+2021-03-05T10:16:12.7874688-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10'
+2021-03-05T10:16:12.7875599-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10'
+2021-03-05T10:16:12.7875637-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10\System.Diagnostics.Process.resources.dll'
+2021-03-05T10:16:12.7875984-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10\System.Diagnostics.Process.resources.exe'
+2021-03-05T10:16:12.7876236-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.10'
+2021-03-05T10:16:12.7878771-03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=pt, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-05T10:16:12.7928840-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-03-05T10:16:12.7928973-03:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2021-03-05T10:16:12.7928991-03:00:Thread#-1:Scheduler: considering testitem #7 for thread -1
+2021-03-05T10:16:12.7929003-03:00:Thread#-1:Scheduler: using testitem #7 for thread -1
+2021-03-05T10:16:12.7929016-03:00:Thread#-1:Scheduler: Test #7 is scheduled for thread
+2021-03-05T10:16:12.7931392-03:00:Thread#-1: Test #7/0 is started on thread #-1
+2021-03-05T10:16:12.7931740-03:00:Thread#-1: Test #7/0 is finished on thread #-1 as Skipped within 1,45E-05 seconds
+2021-03-05T10:16:12.7932020-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-03-05T10:16:12.7932054-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-03-05T10:16:12.7932068-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-03-05T10:16:12.7973213-03:00;Thread#12;Info;test run finished
+2021-03-05T10:16:12.7974628-03:00;Thread#12;Info;publishing test results
+2021-03-05T10:16:12.7975674-03:00;Thread#12;Info;Not publishing results.
+2021-03-05T10:16:12.7976109-03:00;Thread#12;Info;test results published
+2021-03-05T10:16:12.7976428-03:00;Thread#12;Info;generating reports
+2021-03-05T10:16:12.8560664-03:00;Thread#12;Info;Starting external report generation process
+2021-03-05T10:16:14.5226244-03:00;Thread#12;Info;Successfully generated reports.
+2021-03-05T10:16:14.5241013-03:00;Thread#12;Info;Successfully generated reports
+2021-03-05T10:16:14.5286767-03:00:Total: 4 (test executions: 8)
+2021-03-05T10:16:14.5299195-03:00:Succeeded: 0
+2021-03-05T10:16:14.5301341-03:00:Ignored: 0
+2021-03-05T10:16:14.5303130-03:00:Pending: 0
+2021-03-05T10:16:14.5303178-03:00:Skipped: 1
+2021-03-05T10:16:14.5304872-03:00:Failed: 3
+2021-03-05T10:16:14.5344243-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-03-05T10:16:14.5344668-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Escolar Manager\source\repos\EM.WindowsForms (1)\EM.WindowsForms\TestResults\Unnamed project__2021-03-05T101611.html'
+========== End of log file ==========
